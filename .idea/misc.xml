@@ -10,6 +10,8 @@
         <option value="$PROJECT_DIR$/../learn-spring-orm/pom.xml" />
         <option value="$PROJECT_DIR$/../../JavaProject/Practice/pom.xml" />
         <option value="$PROJECT_DIR$/../demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../Contact/pom.xml" />
+        <option value="$PROJECT_DIR$/../todo-manager/pom.xml" />
       </list>
     </option>
   </component>
